@@ -59,3 +59,4 @@ Generates two prompts:
 ## Author
 
 Jasim Muhammed
+jasimmuhammedmm@gmail.com
